@@ -10,7 +10,7 @@ int main (void){
     FILE* output = fopen(filename, "w");
     
     // Paso el mensaje por consola
-    printf("%s", message);
+    fprintf(stdout, message);
 
     // Guardo el mensaje en output.txt
     fprintf(output, message);
