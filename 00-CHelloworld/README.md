@@ -6,6 +6,9 @@ Individual
 ## Autores de la resolucion
 tobiasvialeruiz | Viale Ruiz, Tobias | 176.273-4
 
+## Estandar de compilador seleccionado
+C11
+
 ## Enunciado
 ### Objetivos
 * Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el
@@ -24,6 +27,3 @@ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
 
 ### Restricciones
 Ninguna
-
-## Estandar de compilador seleccionado
-C11
